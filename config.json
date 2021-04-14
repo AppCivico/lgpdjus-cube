@@ -1,0 +1,8 @@
+{
+    "servers": [
+        {
+            "name": "ITS Homologação",
+            "endpoint": "https://lgpdjus-api.appcivico.com/"
+        }
+    ]
+}
